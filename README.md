@@ -9,9 +9,17 @@
 
 ## Device
 
-- PSG1208 (k1)
-- PSG1218 (k2)
+- MI-R3P(感谢群里emmmm适配,可能led控制有点问题,其它功能正常)
+- 京东云路由(文件来自Lintel) 编译代码: JDC-1
+- 歌华链(感谢群里Heaven适配与测试）编译代码: GHL
+- NEWIFI-D1
+- B70(感谢Untitled提供荒野无灯的适配文件)
+- JCG-AC856M(感谢群里的旅途中的我适配和测试,gpio值还未完全适配，但不影响使用)
+- JCG-AC836M(感谢群里的碧霄客修改和测试)
+- YK-L1(L1、L1C、L1W通刷)
 - PSG712
+- PSG1208
+- PSG1218
 - 5K-W20 (USB)
 - OYE-001 (USB)
 - NEWIFI-MINI (USB)
@@ -29,6 +37,8 @@
 - XY-C1 (USB)
 - WR1200JS (USB)
 - NEWIFI3 (USB)
+- B70 (USB)
+- A3004NS (USB)
 - K2P
 - K2P-USB (USB)
 - JCG-836PRO (USB)
@@ -36,13 +46,9 @@
 - DIR-882 (USB)
 - DIR-878
 - MR2600 (USB)
-- JDC-1 (京东云)
-- GHL (歌华链)
-- NEWIFI-D1
-- B70
-- JCG-AC856M
-- JCG-AC836M
-- YK-L1(L1、L1C、L1W 通刷)
+- WDR7300
+- RM2100
+- R2100
 
 ## Plugins
 
