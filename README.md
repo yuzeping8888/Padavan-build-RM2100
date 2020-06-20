@@ -3,6 +3,10 @@
 
 
 # 参数说明(自理解仅供参考)
+- 默认登陆IP:192.168.2.1
+- 默认用户名/密码:admin/admin
+- 默认wifi密码:1234567890
+- 集成/取消新增插件请修改此文件: trunk/build_firmware_modify
 
 - [C 大支持设备](#Device)
 - [C 大插件分类和说明](#Plugins)
@@ -210,3 +214,13 @@
 > - rtl-sdr 实现 USB 接口的接收机
 > - samba3.6 实现 SMB 协议
 > - socat 个多功能的网络工具
+
+# 鸣谢
+- upbit自动编译脚本：https://github.com/upbit/Padavan-build-RM2100
+- chongshengB源码：https://github.com/chongshengB/rt-n56u
+- hanwckf源码：https://github.com/hanwckf/rt-n56u
+- lean源码: https://github.com/coolsnowwolf/lede
+- 汉化字典来自：https://github.com/gorden5566/padavan
+- hanwckf更新日志：https://www.jianshu.com/p/d76a63a12eae
+- 固件使用说明：https://www.jianshu.com/p/cb51fb0fb2ac
+- 固件编译办法：https://www.jianshu.com/p/6b8403cdea46
