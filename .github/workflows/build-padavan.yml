@@ -3,13 +3,8 @@ name: Build Padavan
 on: 
   release:
     types: published
-#   push:
-#     tags:
-#     - 'v*'
-#  schedule:
-#    - cron: 0 8 * * 5
-    watch:
-      types: started
+  watch:
+    types: started
 
 jobs:
   build:
