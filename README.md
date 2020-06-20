@@ -81,7 +81,7 @@
 
 | 名字                        | 变量                                 |
 | -------------------------- | ------------------------------------ |
-| [adbyby plus+][adb]        | CONFIG_FIRMWARE_INCLUDE_DNSFORWARDER |
+| DNSFORWARD        | CONFIG_FIRMWARE_INCLUDE_DNSFORWARDER |
 | [smartdns][kp]             | CONFIG_FIRMWARE_INCLUDE_SMARTDNS     |
 | [smartdns-二进制文件][adg]   | CONFIG_FIRMWARE_INCLUDE_SMARTDNSBIN  |
 
@@ -92,7 +92,7 @@
 | 名字                            | 变量                          |
 | -------------------------------| ----------------------------- |
 | [CADDY 在线文件管理服务][caddy]   | CONFIG_FIRMWARE_INCLUDE_CADDY |
-| caddy 执行文件                   | CONFIG_FIRMWARE_INCLUDE_CADDY |
+| caddy 执行文件                   | CONFIG_FIRMWARE_INCLUDE_CADDYBIN |
 
 [caddy]: https://github.com/hacdias/filebrowser
 
@@ -136,7 +136,6 @@
 | 名字                                  | 变量                                 |
 | ------------------------------------- | ----------------------------------- |
 | [dogcom 校园网][dogcom]                | CONFIG_FIRMWARE_INCLUDE_DOGCOM      |
-| [锐捷认证][tunsafe]                    | CONFIG_FIRMWARE_INCLUDE_MENTOHUST   |
 | [minieap][minieap]                    | CONFIG_FIRMWARE_INCLUDE_MINIEAP     |
 | [SCUT][scutclient]                    | CONFIG_FIRMWARE_INCLUDE_SCUTCLIENT  |
 | [drcom][drcom]                        | CONFIG_FIRMWARE_INCLUDE_GDUT_DRCOM  |
